@@ -1,0 +1,23 @@
+[project]
+name = "rtt"
+version = "0.1.1"
+description = "Python Package for the Reverse Turing Test"
+readme = "README.md"
+
+requires-python = ">=3.12"
+dependencies = [
+    "openai>=1.58.1",
+    "pwinput>=1.0.3",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "pytest>=8.3.3",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project.scripts]
+rtt = "rtt:main"

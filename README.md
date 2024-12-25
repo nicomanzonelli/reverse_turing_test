@@ -17,7 +17,7 @@ We recommend using [uv](https://docs.astral.sh/uv/) to install the game.
 ```bash
 uv venv
 source .venv/bin/activate
-uv pip install @git+https://github.com/nicomanzonelli/reverse-turing-test.git
+uv pip install git+https://github.com/nicomanzonelli/reverse-turing-test.git
 ```
 
 ### Usage

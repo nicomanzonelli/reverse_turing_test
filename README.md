@@ -9,7 +9,7 @@ This repository contains code to play the reverse turing test game against LLM-b
 For now, you can install the game from source by running the following command.
 
 ```bash
-pip install @git+https://github.com/nicomanzonelli/reverse-turing-test.git
+pip install git+https://github.com/nicomanzonelli/reverse_turing_test
 ```
 
 We recommend using [uv](https://docs.astral.sh/uv/) to install the game.
@@ -17,7 +17,7 @@ We recommend using [uv](https://docs.astral.sh/uv/) to install the game.
 ```bash
 uv venv
 source .venv/bin/activate
-uv pip install git+https://github.com/nicomanzonelli/reverse-turing-test.git
+uv pip install git+https://github.com/nicomanzonelli/reverse_turing_test
 ```
 
 ### Usage

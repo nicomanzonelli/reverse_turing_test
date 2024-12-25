@@ -66,4 +66,4 @@ There are a few known issues and some features we would like to add:
 
 ## Ethical and Philosophical Considerations
 
-This game is designed to be a fun way to explore the capabilities of LLM-based AI agents. However, it also raises some interesting philosophical questions about consciousness and intelligence. We do not claim to contribute to any of these discussions. Yet... 
+This game is designed to be a fun way to explore the capabilities of LLM-based AI agents. However, it also raises some interesting philosophical questions about consciousness and intelligence. We do not claim to contribute to any of these discussions.
